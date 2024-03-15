@@ -1,7 +1,7 @@
 <p align="center">
  <img src= "https://github.com/GoutamHX/MAXXRAT/assets/148895787/59d554d8-8766-43f6-b964-40b193523207" style="height:100px;width:100px;" >
 </p>
-<h1 align=center>MAXXRAT</h1>
+<h1 align=center>Social_Media_Hacker_1067</h1>
 
 ## A Advance RAT -multifunctional Android RAT with GUI based Web Panel without port forwarding.
 
@@ -103,7 +103,7 @@
 - [💕Admin](https://t.me/MR_GOUTAM08)
 
 ## CREDIT ❤️✅
- AIRAVAT -RAT
+ Social_Media_Hacker_1067 -RAT
 
 ## DISCLAIMER
 <p align="center">
@@ -111,4 +111,4 @@
 </p>
 
 
-The use of the MAXXRAT is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Please read [LICENSE](LICENSE).
+The use of the Social_Media_Hacker_1067 is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Please read [LICENSE](LICENSE).
